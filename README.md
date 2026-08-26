@@ -1,4 +1,6 @@
 # 문서현 👋
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fseohyeon0394-crypto%2Fseohyeon0394-crypto&label=&icon=github&color=%23efadce&message=&style=social&tz=UTC)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Fail+fast%2C+grow+faster.&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 - 이미지
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-- 없음
+
 
 **🛠️ Infra and Tools**
-- 없음
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
