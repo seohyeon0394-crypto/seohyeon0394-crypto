@@ -1,4 +1,4 @@
-# 안녕하세요. 문서현 👋
+# 안녕하세요 문서현입니다. 👋
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fseohyeon0394-crypto%2Fseohyeon0394-crypto&label=&icon=github&color=%23f7d6e6&message=&style=flat&tz=UTC)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Fail+fast%2C+grow+faster.&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
