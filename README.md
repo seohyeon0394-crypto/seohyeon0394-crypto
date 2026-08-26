@@ -1,4 +1,4 @@
-## 문서현 👋
+# 문서현 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Fail+fast%2C+grow+faster.&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 - 이미지
@@ -6,7 +6,7 @@
 (https://naver.com)
 
 
-## 👋 소개
+# 👋 소개
 - 🙋‍♀️ 이름: [문서현]
 - 🎂 나이: [23(04년생)]살
 - 📍 거주지: 동탄
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🦾 Skills
+## 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-
+없음
 
 **🛠️ Infra and Tools**
+없음
