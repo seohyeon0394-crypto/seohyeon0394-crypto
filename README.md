@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-없음
+- 없음
 
 **🛠️ Infra and Tools**
-없음
+- 없음
