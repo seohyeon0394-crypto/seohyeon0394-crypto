@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyeon0394&edge_flat=false&title=hits)
 <!--
 **seohyeon0394-crypto/seohyeon0394-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
